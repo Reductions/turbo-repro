@@ -1,0 +1,13 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     "cached": "echo 'Cached a' && exit 1",
+     "not-cached": "echo 'Not cached a' && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

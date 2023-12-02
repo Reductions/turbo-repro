@@ -1,0 +1,5 @@
+packages:
+  # intentionally avoiding glob /* patterns to make this file easier to read in .githooks/precommit
+  # and act as single source of truth
+  - "a"
+  - "b"

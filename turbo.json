@@ -1,0 +1,11 @@
+{
+  "$schema": "https://turbo.build/schema.json",
+  "pipeline": {
+    "cached": {
+      "cache": true
+    },
+    "not-cached": {
+      "cache": false
+    }
+  }
+}
